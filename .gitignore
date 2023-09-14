@@ -1,0 +1,34 @@
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Dependências (geralmente estão no diretório 'node_modules')
+node_modules/
+
+# Arquivos de log e saída de erro
+npm-debug.log
+yarn-error.log
+error.log
+
+# Arquivos de ambiente (.env)
+.env
+
+# Arquivos gerados durante a compilação ou execução (exemplos)
+build/
+dist/
+out/
+
+# Dependências específicas de IDE ou editor
+.vscode/
+.idea/
+
+# Dependências de desenvolvimento
+*.log
+*.swp
+*.swo
+
+# Arquivos de saída de testes
+coverage/
+
+# Arquivos gerados por ferramentas de construção
+build/
