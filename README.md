@@ -49,3 +49,7 @@ Agora você pode acessar a API localmente em `http://localhost:3333`.
 - `GET /users/:id`: Obtém um usuário por ID.
 - `PUT /users/:id`: Atualiza um usuário por ID.
 - `DELETE /users/:id`: Exclui um usuário por ID.
+
+## Testes no Insomnia
+
+Você pode testar as rotas da API utilizando o Insomnia. O arquivo de configuração do Insomnia para esses testes está disponível no diretório `insomnia_test`. Você pode importar esse arquivo no Insomnia para começar a testar a API imediatamente. O arquivo é chamado `node-express-users-rest-api_Insomnia.json`.
